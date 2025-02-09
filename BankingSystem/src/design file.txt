@@ -1,0 +1,30 @@
+so this application will be used by commend line
+the only helping technology i will use is mailing system because of the verification and otp generation purpose
+and it will make my application way cooler.
+
+and all the stored information will be stored using file system not database.
+
+now the original design parody is  -
+
+start view >
+
+    <Welcome to Western Bank>
+                            -your one stop solution for banking.
+
+NOTE- we are low on budget so we are using a terminal based application.
+but it is secure, we have paid enough to make the application. one urgent MASSAGE for generation otp and password, we recommend
+you use an active internet connection while using the application. else your app can crash. and there is nothing we can do.
+there is a limitation what technology can do. It certainly can not send email without an internet connection.
+
+
+next view >
+
+    USER LOGIN          ......> THIS part WE wILL create First.
+
+    STAFF LOGIN
+
+
+USER LOGIN >
+
+don't have an account ( just create it {we are the best bank out there} )
+
